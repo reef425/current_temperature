@@ -30,7 +30,7 @@ class View:
         self.myScreen.addstr(3, 5, self.model.getData().get(city))
         self.myScreen.addstr(4, 5, "Update time:" + str(self.model.getTime()))
         self.myScreen.addstr(5, 5, "Press \"m\" to back to main menu")
-        self.myScreen.addstr(5, 5, "Press \"r\" to update")
+        self.myScreen.addstr(6, 5, "Press \"r\" to update")
         self.myScreen.refresh()
    
     def __drawMainMenu(self, index, citys=[]):
