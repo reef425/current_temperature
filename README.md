@@ -4,7 +4,7 @@
      ТЭЦ-4
      +22.5
      Update time:Mon Jun 26 19:51:00 2017
-     Press "r" to updateo main menu
+     Press "r" to update main menu
 
 
 
